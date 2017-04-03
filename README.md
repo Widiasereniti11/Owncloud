@@ -71,14 +71,12 @@ Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
   - Tidak bisa diakses secara offline.
 
 - Perbandingan OwnCloud dengan aplikasi GitLab
+  - Pada OwnCloud saat pertama kali membuka tidak dapat register, hanya admin yang dapat mendaftarkan user
+  - OwnCloud bisa menyimpan gambar, kalender, kontak dll, sedangkan pada GitLab hanya bisa memnyimpan codingan.
+  - OwnCloud bisa mengakses file dari google drive, dropbox.
+  - Data yang disimpan dapat di enskripsi
 
 ## Referensi
-
-## Referensi
-- Install Vanilla Forums on Ubuntu 16.04 | https://www.1and1.co.uk/cloud-community/learn/application/misc/install-vanilla-forums-on-ubuntu-1604/
-- PHPmyadmin Documentation | https://help.ubuntu.com/lts/serverguide/phpmyadmin.html
-- Vanilla Forums Open Source Theme | https://open.vanillaforums.com/addon/browse/themes/
-- Vanilla Forums Help | https://open.vanillaforums.com/discussion/12702/could-not-instantiate-mail-function
-- PHP Curl Instalation | http://stackoverflow.com/questions/33775897/how-do-i-install-the-ext-curl-extension-with-php-7
-- Vanilla Forum Reviews 2016 | https://www.comparakeet.com/forum-software/vanilla-forums-review/
-kilas Tentang OwnCloud adalah sebuah paket perangkat lunak client-server untuk menciptakan layanan file hosting. Secara fungsional, OwnCloud sangat mirip dengan Dropbox, namun OwnCloud memungkinkan orang untuk menginstal dan mengoperasikan tanpa biaya pada server pribadi. Kita dapat menyimpan file, folder, kontak, audio, galeri foto, kalender, dan dokumen lainnya serta dapat mengakses dimana saja dan kapan saja. ## Instalasi - Requirement awal pada instalasi Vanilla Forum mirip seperti pada proses intalasi Wordpress pada praktikum 1 berikut requirement yang diperlukan : | No. | Yang Harus diinstal | | ------ | ------ | | 1 | apache2| | 2 | mysql-server | | 3 | php | | 4 | libapache2-mod-php | | 5 | php-mysql | | 6 | php-gd php-mcrypt php-mbstring php-xml php-ssh2 | |
+- Deskripsi OwnCloud | https://en.wikipedia.org/wiki/OwnCloud
+- Kelebihan OwnCloud | http://www.chip.co.id/chipversity/general/16346/owncloud_solusi_sharing_file_dengan_teknologi_private_cloud_storage
+- Langkah Instalasi | https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-owncloud-on-ubuntu-16-04
