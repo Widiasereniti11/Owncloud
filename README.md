@@ -56,22 +56,22 @@ Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 ## Pembahasan
 - 
 - Kelebihan
-1.Memungkinkan antar karyawan untuk berkirim file antar grup mapun personal.
-2.Singkronisasi file kapan saja (real time) dengan berbagai device.
-3.Upload data yang tidak dibatasi selama kapasitas hardisk server data mencukupi.
-4.Jumlah pengguna yang bisa bergabung tidak terbatas.
-5.Adanya Kalender dan Pengingat Tugas.
-6.Adanya fitur Preview Dokumen.
-7.Adanya fitur Galeri Photo dan Video.
-8.Pengembangan yang luas karena disupport oleh berbagai plugin tambahan.
+  - Memungkinkan antar karyawan untuk berkirim file antar grup mapun personal.
+  - Singkronisasi file kapan saja (real time) dengan berbagai device.
+  - Upload data yang tidak dibatasi selama kapasitas hardisk server data mencukupi.
+  - Jumlah pengguna yang bisa bergabung tidak terbatas.
+  - Adanya Kalender dan Pengingat Tugas.
+  - Adanya fitur Preview Dokumen.
+  - Adanya fitur Galeri Photo dan Video.
+  - Pengembangan yang luas karena disupport oleh berbagai plugin tambahan.
 
 - Kekurangan
-1.Masalah keamanan.
-2.Adanya ganguan pada saat mengakses data, entah disebabkan oleh koneksi yang bermasalah, server yang sedang ‘down’.
-3.Tidak bisa melakukan register, hanya admin yang dapat melakukan register terhadap user lain.
-4.Tidak bisa diakses secara offline.
+  - Adanya ganguan pada saat mengakses data, entah disebabkan oleh koneksi yang bermasalah, server yang sedang ‘down’.
+  - Tidak bisa melakukan register, hanya admin yang dapat melakukan register terhadap user lain.
+  - Tidak bisa diakses secara offline.
 
 - Perbandingan OwnCloud dengan aplikasi GitLab
+
 ## Referensi
 
 ## Referensi
