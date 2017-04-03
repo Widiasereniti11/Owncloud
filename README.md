@@ -12,17 +12,7 @@ OwnCloud adalah sebuah paket perangkat lunak client-server untuk menciptakan lay
 ## Instalasi
 - Requirement awal pada instalasi OwnCloud pada Windows adalah membuat SSH dengan menggunakan PuTTy [Download Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
 - Mula-mula install aplikasi di bawah ini :
-    / No. / Yang Harus diinstal /
-    / ------ / ------ /
-    / 1 / apache2 /
-    / 2 / mysql-server /
-    / 3 / php /
-    / 4 / libapache2-mod-php /
-    / 5 / php-mysql /
-    / 6 / php-gd php-mcrypt php-mbstring php-xml php-ssh2 /
-    / 7 / php-curl /
-    / 8 / unzip /
-    / 9 / phpmyadmin (opsional)/
+![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17796149_1280047775414195_1748431531079642747_n.jpg?oh=5f95b1969dc85a134c33fa953d953932&oe=5955051B)
    
 - Langkah instalasi Requirement awal dalam CLI.
      ## Step 1 OwnCloud Installation
