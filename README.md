@@ -99,7 +99,6 @@ Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 ![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17760164_1280061925412780_6347901786084891445_n.jpg?oh=5c7ec7bf6d31108a32cfae8c6c2e8c80&oe=59562EC4)
 
 ## Pembahasan
-- Pada OwnCloud 
 - Kelebihan
   - Memungkinkan antar karyawan untuk berkirim file antar grup mapun personal.
   - Singkronisasi file kapan saja (real time) dengan berbagai device.
@@ -127,3 +126,4 @@ Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 - Deskripsi OwnCloud | https://en.wikipedia.org/wiki/OwnCloud
 - Kelebihan OwnCloud | http://www.chip.co.id/chipversity/general/16346/owncloud_solusi_sharing_file_dengan_teknologi_private_cloud_storage
 - Langkah Instalasi | https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-owncloud-on-ubuntu-16-04
+- Otomasisasi | https://doc.owncloud.org/server/9.0/admin_manual/configuration_server/occ_command.html
