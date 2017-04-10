@@ -97,6 +97,10 @@ Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 ![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17634345_1280061972079442_3785126364327019108_n.jpg?oh=9886bab52e4088a40d55fc401db57d5e&oe=5964EE68)
 ![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17760164_1280061925412780_6347901786084891445_n.jpg?oh=5c7ec7bf6d31108a32cfae8c6c2e8c80&oe=59562EC4)
+![N|Solid](http://imgur.com/aMc5OCh)
+![N|Solid](http://imgur.com/a/p74Ej)
+![N|Solid](http://imgur.com/a/rz7PK)
+![N|Solid](http://imgur.com/a/rz7PK)
 
 ## Pembahasan
 - Kelebihan
