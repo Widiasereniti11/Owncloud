@@ -46,7 +46,48 @@ OwnCloud adalah sebuah paket perangkat lunak client-server untuk menciptakan lay
 - Melakukan back up data ke user lain
 
 ## Otomatisasi
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
+```
+Usage:
+ command [options] [arguments]
+
+Options:
+ -h, --help            Display this help message
+ -q, --quiet           Do not output any message
+ -V, --version         Display this application version
+     --ansi            Force ANSI output
+     --no-ansi         Disable ANSI output
+ -n, --no-interaction  Do not ask any interactive question
+     --no-warnings     Skip global warnings, show command output only
+ -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output,
+                       2 for more verbose output and 3 for debug
+
+Available commands:
+ check                 check dependencies of the server
+                       environment
+ help                  Displays help for a command
+ list                  Lists commands
+ status                show some status information
+ upgrade               run upgrade routines after installation of
+                       a new release. The release has to be
+                       installed before.
+```
+```
+Usage:
+ maintenance:mode [options]
+
+Options:
+     --on              enable maintenance mode
+     --off             disable maintenance mode
+ -h, --help            Display this help message
+ -q, --quiet           Do not output any message
+ -V, --version         Display this application version
+     --ansi            Force ANSI output
+     --no-ansi         Disable ANSI output
+ -n, --no-interaction  Do not ask any interactive question
+     --no-warnings     Skip global warnings, show command output only
+ -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output,
+                       2 for more verbose output and 3 for debug
+```
 
 ## Cara Pemakaian
 
