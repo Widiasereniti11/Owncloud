@@ -91,16 +91,19 @@ Options:
 
 ## Cara Pemakaian
 
-Tampilan aplikasi web
-Fungsi-fungsi utama
-Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
-![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17634345_1280061972079442_3785126364327019108_n.jpg?oh=9886bab52e4088a40d55fc401db57d5e&oe=5964EE68)
-![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17760164_1280061925412780_6347901786084891445_n.jpg?oh=5c7ec7bf6d31108a32cfae8c6c2e8c80&oe=59562EC4)
+- Sebagai admin, lakukan proses login (masukkan username dan password)
 ![N|Solid](http://i.imgur.com/aMc5OCh.png)
 ![N|Solid](http://i.imgur.com/7uyllHd.png)
 ![N|Solid](http://i.imgur.com/iPtmo0t.png)
+- Setelah masuk, upload file/folder/dokumen apapun yang ingin di simpan
 ![N|Solid](http://i.imgur.com/Ux201Ju.png)
+- Jika ada user yang ingin ditambahkan agar bisa melihat maupun mengedit bisa dengan ditambahkan secara manual oleh admin, file/folder/dokumen juga bisa dibagikan ke anggota
+- Selain itu, dokumen yang sudah ada didalam owncloud juga bisa di download kembali
+![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17634345_1280061972079442_3785126364327019108_n.jpg?oh=9886bab52e4088a40d55fc401db57d5e&oe=5964EE68)
+![N|Solid](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17760164_1280061925412780_6347901786084891445_n.jpg?oh=5c7ec7bf6d31108a32cfae8c6c2e8c80&oe=59562EC4)
+- Untuk file mp4 juga bisa di play secara otomatis ketika kita mengkliknya
+Secara umum penggunaan ownCloud sama dengan penggunaan Google Drive atau cloud storage pada umumnya.
 
 ## Pembahasan
 - Kelebihan
