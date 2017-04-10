@@ -75,7 +75,9 @@ Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
   - Tidak bisa diakses secara offline.
 
 - Perbandingan OwnCloud dengan aplikasi GitLab
-  - Pada OwnCloud saat pertama kali membuka tidak dapat register, hanya admin yang dapat mendaftarkan user
+  - Owncloud: dapat menyimpan file, kontak, foto, kalender dan lain-lain pada server pilihan kita dan data dapat diakses melalui mobile device, desktop, atau web browser kapanpun dan dimanapun.
+    Gitlab: hanya dapat menympan file berupa code data hanya dapat diakses melalui desktop. Data yang tersimpan dapat dienkripsi untuk keamanan.
+
   - OwnCloud bisa menyimpan gambar, kalender, kontak dll, sedangkan pada GitLab hanya bisa memnyimpan codingan.
   - OwnCloud bisa mengakses file dari google drive, dropbox.
   - Data yang disimpan dapat di enskripsi
